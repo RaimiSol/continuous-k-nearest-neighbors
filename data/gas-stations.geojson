@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-02-07T17:12:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42960506",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "10407",
+        "addr:street": "Kniprodestraße",
+        "addr:suburb": "Prenzlauer Berg",
+        "amenity": "fuel",
+        "brand": "Sprint",
+        "brand:wikidata": "Q57588452",
+        "building": "retail",
+        "fuel:biodiesel": "yes",
+        "fuel:cng": "yes",
+        "fuel:e85": "yes",
+        "fuel:lpg": "yes",
+        "name": "Sprint",
+        "operator": "Sprint-Tank GmbH",
+        "surveillance": "outdoor",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.4449396,
+              52.5339968
+            ],
+            [
+              13.444749,
+              52.5338656
+            ],
+            [
+              13.4448515,
+              52.5338032
+            ],
+            [
+              13.445028,
+              52.5336959
+            ],
+            [
+              13.44524,
+              52.5338193
+            ],
+            [
+              13.4450453,
+              52.5339343
+            ],
+            [
+              13.4449396,
+              52.5339968
+            ]
+          ]
+        ]
+      },
+      "id": "way/42960506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309880944",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "130",
+        "addr:postcode": "10407",
+        "addr:street": "Storkower Straße",
+        "addr:suburb": "Prenzlauer Berg",
+        "amenity": "fuel",
+        "brand": "Jet",
+        "brand:wikidata": "Q568940",
+        "brand:wikipedia": "en:Jet (brand)",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Jet",
+        "payment:american_express": "yes",
+        "payment:dkv": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4523516,
+          52.5338295
+        ]
+      },
+      "id": "node/309880944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/669891011",
+        "addr:city": "Berlin",
+        "addr:housenumber": "2",
+        "addr:postcode": "10407",
+        "addr:street": "Margarete-Sommer-Straße",
+        "amenity": "fuel",
+        "brand": "Total",
+        "drink:club-mate": "retail",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "kiosk": "yes",
+        "name": "Total Station",
+        "opening_hours": "24/7",
+        "phone": "+49 30 42852514",
+        "website": "http://store.total.de/de/germany/store-total-de/berlin/berlin-margarete-sommer-str-2/ND020487",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4412623,
+          52.5307982
+        ]
+      },
+      "id": "node/669891011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3241436496",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "116",
+        "addr:postcode": "10407",
+        "addr:street": "Storkower Straße",
+        "addr:suburb": "Prenzlauer Berg",
+        "amenity": "fuel",
+        "brand": "Elan",
+        "brand:wikidata": "Q57980752",
+        "fuel:lpg": "yes",
+        "name": "Elan",
+        "phone": "+49 30 4217562",
+        "ref": "Sauermann, 9548",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4508052,
+          52.5353899
+        ]
+      },
+      "id": "node/3241436496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342824464",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "174",
+        "addr:postcode": "10369",
+        "addr:street": "Storkower Straße",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "level": "1",
+        "name": "Total",
+        "opening_hours": "Mo-Su,PH 00:00-24:00",
+        "phone": "+49309720385",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4579265,
+          52.5274399
+        ]
+      },
+      "id": "node/8342824464"
+    }
+  ]
+}
